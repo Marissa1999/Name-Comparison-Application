@@ -1,0 +1,7 @@
+E:\.NET Programming\Labs\GoncalvesMarissaLab01\CompareNames\CompareNames\bin\Debug\CompareNames.exe.config
+E:\.NET Programming\Labs\GoncalvesMarissaLab01\CompareNames\CompareNames\bin\Debug\CompareNames.exe
+E:\.NET Programming\Labs\GoncalvesMarissaLab01\CompareNames\CompareNames\bin\Debug\CompareNames.pdb
+E:\.NET Programming\Labs\GoncalvesMarissaLab01\CompareNames\CompareNames\obj\Debug\CompareNames.csprojAssemblyReference.cache
+E:\.NET Programming\Labs\GoncalvesMarissaLab01\CompareNames\CompareNames\obj\Debug\CompareNames.csproj.CoreCompileInputs.cache
+E:\.NET Programming\Labs\GoncalvesMarissaLab01\CompareNames\CompareNames\obj\Debug\CompareNames.exe
+E:\.NET Programming\Labs\GoncalvesMarissaLab01\CompareNames\CompareNames\obj\Debug\CompareNames.pdb
